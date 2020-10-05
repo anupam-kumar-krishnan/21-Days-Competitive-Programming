@@ -1,0 +1,3 @@
+- Started learning linked list from scratch.
+- Learned the basic theory and solved for much but 3 problems.
+- Also Participated in Codechef October long challenge(Div 2). 
