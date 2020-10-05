@@ -20,3 +20,8 @@ Learn DS and Algo
 ## Drawbacks of linked list
    -  Random access is not allowed. 
    -  Extra memory space for a pointer is required.
+
+## Did three basic questions based on linked list on GFG
+  - Count Node Of Linked List
+  - Linked List Length Even or Odd
+  - Reverse a Linked List
