@@ -20,8 +20,24 @@ Learn DS and Algo
 ## Drawbacks of linked list
    -  Random access is not allowed. 
    -  Extra memory space for a pointer is required.
+   
+## The initialization of linked list
+    #### struct node
+         {
+           int data;
+           struct node *next;
+         };
 
 ## Did three basic questions based on linked list on GFG
   - Count Node Of Linked List
   - Linked List Length Even or Odd
   - Reverse a Linked List
+
+# Day 2
+  ## Learned the basics of linked list
+     - studies the opertions insertion/deletion/updation and practice all by performing the codes
+   
+  ## Did three questions on GFG
+   - Print link list elements
+   - Delete alternate node
+   - Check if circular link list
