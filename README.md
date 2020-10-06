@@ -21,7 +21,7 @@ Learn DS and Algo
    -  Random access is not allowed. 
    -  Extra memory space for a pointer is required.
    
-## The initialization of linked list
+## Initialization of linked list
      struct node
      {
        int data;
