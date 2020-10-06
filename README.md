@@ -1,7 +1,7 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
 Learn DS and Algo
 
-# Day 1
+# Day 1🚀
 
 ## Linked List
 - A linked list is a linear data structure
@@ -33,7 +33,8 @@ Learn DS and Algo
   - Linked List Length Even or Odd
   - Reverse a Linked List
 
-# Day 2
+# Day 2🚀
+
   ## Learned the basics of linked list
      - learned the opertions performed on linked list insertion/deletion/updation and practice all by performing the codes
    
