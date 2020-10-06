@@ -35,7 +35,7 @@ Learn DS and Algo
 
 # Day 2
   ## Learned the basics of linked list
-     - studies the opertions insertion/deletion/updation and practice all by performing the codes
+     - learned the opertions performed on linked list insertion/deletion/updation and practice all by performing the codes
    
   ## Did three questions on GFG
    - Print link list elements
