@@ -22,11 +22,11 @@ Learn DS and Algo
    -  Extra memory space for a pointer is required.
    
 ## The initialization of linked list
-    #### struct node
-         {
-           int data;
-           struct node *next;
-         };
+     struct node
+     {
+       int data;
+       struct node *next;
+     };
 
 ## Did three basic questions based on linked list on GFG
   - Count Node Of Linked List
