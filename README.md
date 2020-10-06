@@ -39,6 +39,6 @@ Learn DS and Algo
      - learned the opertions performed on linked list insertion/deletion/updation and practice all by performing the codes
    
   ## Did three questions on GFG
-   - Print link list elements
+   - Print linked list elements
    - Delete alternate node
-   - Check if circular link list
+   - Check if circular linked list
