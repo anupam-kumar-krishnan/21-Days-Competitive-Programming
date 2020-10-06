@@ -9,9 +9,9 @@ Learn DS and Algo
 - The elements in a linked list are linked using pointers 
 
 ## Types of Linked List
-    - Singly Linked List
-    - Doubly Linked List
-    - Circular Linked List
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
 
 ## Why we prefer linked list over arrays
  - Dynamic nature in respect of size
@@ -29,9 +29,9 @@ Learn DS and Algo
      };
 ## Some brief about linked list
    - Linked list is made of nodes connected to each other
-   - And "Nodes" consists of two blocks namely
-     - Data
-     - Pointer(also called 'next' while programming 
+   - And <b>Nodes</b> consists of two blocks namely
+     - <b>Data</b>
+     - <b>Pointer</b>(also called 'next' while programming) 
    - Data refers to the value at the data block of node
    - Pointer points to the next node in order to link every node with each other
    
@@ -43,7 +43,7 @@ Learn DS and Algo
 # Day 2🚀
 
   ## Learned the basics of linked list
-   - learned the opertions performed on linked list insertion/deletion/updation and practice all by performing the codes
+   - learned the opertions performed on linked list <b>insertion</b>/<b>deletion</b>/<b>updation</b> and practice all by performing the codes
    
   ## Did three questions on GFG
    - Print linked list elements
