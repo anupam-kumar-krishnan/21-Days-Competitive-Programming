@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-/* Link list Node */
+
 struct Node
 {
     int data;
