@@ -43,9 +43,30 @@ Learn DS and Algo
 # Day 2🚀
 
   ## Learned the basics of linked list
-   - learned the opertions performed on linked list <b>insertion</b>/<b>deletion</b>/<b>updation</b> and practice all by performing the codes
-   
+   - learned the opertions performed on linked list <b>insertion</b>/<b>deletion</b>/<b>updation</b>
   ## Did three questions on GFG
    - Print linked list elements
    - Delete alternate node
    - Check if circular linked list
+
+# Day 3🚀
+
+  ## Linked list start from creating the linked list to operations performed on linked list(Singly Linked List)
+   - Creating Linked List
+   - Displaying Linked List
+   
+   ## Learned the operations performed in linked list
+   
+   ### Insertion
+   - Insertion at first
+   - Insertion at last
+   - Insertion in between
+     
+   ### Deletion
+   - Deletion at first
+   - Deletion at last
+   - Deletion in between
+   
+   ### Others
+   - Count nodes
+   - Remove duplicates
