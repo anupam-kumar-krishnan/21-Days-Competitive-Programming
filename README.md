@@ -70,3 +70,14 @@ Learn DS and Algo
    ### Others
    - Count nodes
    - Remove duplicates
+   
+# Day 4🚀
+
+## Started learning some algorithms
+  - Euclid Algo, Extended Euclid Algo
+  - Segmented Sieve
+  - Linear Diophantine Equation
+  - Linear Diophantine Equation
+  
+## Practiced some questions based on the algorithm
+  - Will practice some more questions in order to grasp the concept totally
