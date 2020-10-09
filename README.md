@@ -74,7 +74,11 @@ Learn DS and Algo
 # Day 4🚀
 
 ## Started learning some algorithm
-  - Euclid Algo, Extended Euclid Algo
+  - Euclid Algo
+    - A basic funda to find the GCD
+  
+  - Extended Euclid Algo
+    -Extended Euclidean algorithm also finds integer coefficients x and y 
   
 ## Practiced some questions based on the algorithm
   - Will practice some more questions in order to grasp the concept totally
@@ -84,3 +88,4 @@ Learn DS and Algo
 
 ## Started learning some algorithm
   - Sieve of Eratosthenes
+     - The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million 
