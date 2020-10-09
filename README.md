@@ -73,14 +73,14 @@ Learn DS and Algo
    
 # Day 4🚀
 
-## Started learning some algorithms
+## Started learning some algorithm
   - Euclid Algo, Extended Euclid Algo
   
 ## Practiced some questions based on the algorithm
   - Will practice some more questions in order to grasp the concept totally
   
   
-# Day 5
+# Day 5🚀
 
-## Started learning some algorithms
+## Started learning some algorithm
   - Segmented Sieve
