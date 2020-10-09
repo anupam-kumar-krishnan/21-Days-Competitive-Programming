@@ -83,4 +83,4 @@ Learn DS and Algo
 # Day 5
 
 ## Started learning some algorithms
-  - Segmented Seive
+  - Segmented Sieve
