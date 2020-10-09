@@ -78,3 +78,9 @@ Learn DS and Algo
   
 ## Practiced some questions based on the algorithm
   - Will practice some more questions in order to grasp the concept totally
+  
+  
+# Day 5
+
+## Started learning some algorithms
+  - Segmented Seive
