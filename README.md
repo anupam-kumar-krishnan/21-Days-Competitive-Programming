@@ -95,3 +95,9 @@ Learn DS and Algo
 ## Solved some problems on GFG
   - Multiply array elements
   - Sum of array
+
+# Day 7🚀
+
+## Solved some problems on GFG
+  - Balanced array
+  - Count the zeros
