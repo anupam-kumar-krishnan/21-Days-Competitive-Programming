@@ -89,3 +89,9 @@ Learn DS and Algo
 ## Started learning some algorithm
   ## Sieve of Eratosthenes
      - The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million 
+     
+# Day 6🚀
+
+## Solved some problems on GFG
+  - Multiply array elements
+  - Sum of array
