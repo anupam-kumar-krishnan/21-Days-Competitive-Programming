@@ -101,3 +101,18 @@ Learn DS and Algo
 ## Solved some problems on GFG
   - Balanced array
   - Count the zeros
+  
+# Day 8🚀
+
+## Solved some problems on GFG
+  - Minimum number to form the sum even
+  - Number of occuerences
+  
+# Day 9🚀
+
+## Solved some problems on GFG 
+  - Check set Bits
+  - How many X's
+  - Sorted matrix
+  
+  
