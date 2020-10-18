@@ -133,7 +133,7 @@ Learn DS and Algo
  
 # Day 13🚀
 
-## Solved problem on GFG
+## Solved problems on GFG
  - Anagram of String
  - Bubble Sort
  - Children Sum Parent
@@ -141,7 +141,7 @@ Learn DS and Algo
  
  # Day 14🚀
 
-## Solved problem on GFG
+## Solved problems on GFG
   - Count the zeros
   - Factorials of large numbers
   - Star Elements
