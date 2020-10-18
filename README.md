@@ -143,3 +143,5 @@ Learn DS and Algo
 
 ## Solved problem on GFG
   - Count the zeros
+  - Factorials of large numbers
+  - Star Elements
