@@ -115,4 +115,31 @@ Learn DS and Algo
   - How many X's
   - Sorted matrix
   
-  
+# Day 10🚀
+
+## Solved some problems on GFG
+ - Equilibrium index of an array
+ - Rotate by 90 Degree
+ 
+# Day 11🚀
+
+## Solved problem on GFG
+ - Swapping Pair make sum equal
+ 
+# Day 12🚀
+
+## Solved problem on GFG
+ - Maximum and Minimum Of Array Elements
+ 
+# Day 13🚀
+
+## Solved problem on GFG
+ - Anagram of String
+ - Bubble Sort
+ - Children Sum Parent
+ - Sum of all substrings of a number
+ 
+ # Day 14🚀
+
+## Solved problem on GFG
+  - Count the zeros
