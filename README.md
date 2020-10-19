@@ -145,3 +145,17 @@ Learn DS and Algo
   - Count the zeros
   - Factorials of large numbers
   - Star Elements
+  
+# Day 15🚀 
+
+## Solved problems on GFG
+  - Remove Character
+  - Repetitive Addition of digits
+  - Student Record
+  - URLify a given string
+  - Reach a given score
+  - Finding position
+  - Evaluate postfix expression
+  - Decode the pattern
+  - Count number of Hops
+  - Binary Array Sorting
