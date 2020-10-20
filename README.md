@@ -163,3 +163,5 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
   - <i>Decode the pattern</i>
   - <i>Count number of Hops</i>
   - <i>Binary Array Sorting</i>
+
+#  Work hard👨‍💻 in silence🔇📴, let your success be you noise📢📢  
