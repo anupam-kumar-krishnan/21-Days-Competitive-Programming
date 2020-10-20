@@ -78,14 +78,17 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
 
 ## Started learning some algorithm
   ## Euclid Algo
-```dif
+```diff
 + A basic funda to find the GCD
 ```
-  ## Extended Euclid Algo
-      -Extended Euclidean algorithm also finds integer coefficients x and y 
-  
-## Practiced some questions based on the algorithm
-  - <i>Will practice some more questions in order to grasp the concept totally</i>
+
+   ## Extended Euclid Algo
+ ```diff 
+ +     Extended Euclidean algorithm also finds integer coefficients x and y 
+ ``` 
+ 
+   ## Practiced some questions based on the algorithm
+   - <i>Will practice some more questions in order to grasp the concept totally</i>
   
   
 # Day 5📌
