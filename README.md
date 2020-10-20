@@ -25,11 +25,11 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
    
 ## Initialization of linked list
 ```diff
-  +  struct node
-     {
-       int data;
-       struct node *next;
-     };
+-  struct node
+-  {
+-    int data;
+-    struct node *next;
+-  };
 ```
 
 ## Some brief about linked list
