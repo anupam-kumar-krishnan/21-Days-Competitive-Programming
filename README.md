@@ -95,48 +95,48 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
      
 # Day 6📌
 
-## Solved some problems on GFG
+## Solved some problems on GFG:white_check_mark
   - Multiply array elements
   - Sum of array
 
 # Day 7📌
 
-## Solved some problems on GFG
+## Solved some problems on GFG:white_check_mark
   - Balanced array
   - Count the zeros
   
 # Day 8📌
 
-## Solved some problems on GFG
+## Solved some problems on GFG:white_check_mark
   - Minimum number to form the sum even
   - Number of occuerences
   
 # Day 9📌
 
-## Solved some problems on GFG 
+## Solved some problems on GFG :white_check_mark
   - Check set Bits
   - How many X's
   - Sorted matrix
   
 # Day 10📌
 
-## Solved some problems on GFG
+## Solved some problems on GFG:white_check_mark
  - Equilibrium index of an array
  - Rotate by 90 Degree
  
 # Day 11📌
 
-## Solved problem on GFG
+## Solved problem on GFG:white_check_mark
  - Swapping Pair make sum equal
  
 # Day 12📌
 
-## Solved problem on GFG
+## Solved problem on GFG:white_check_mark
  - Maximum and Minimum Of Array Elements
  
 # Day 13📌
 
-## Solved problems on GFG
+## Solved problems on GFG:white_check_mark
  - Anagram of String
  - Bubble Sort
  - Children Sum Parent
@@ -144,14 +144,14 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
  
  # Day 14📌
 
-## Solved problems on GFG
+## Solved problems on GFG:white_check_mark
   - Count the zeros
   - Factorials of large numbers
   - Star Elements
   
 # Day 15📌 
 
-## Solved problems on GFG
+## Solved problems on GFG:white_check_mark
   - Remove Character
   - Repetitive Addition of digits
   - Student Record
