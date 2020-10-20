@@ -24,11 +24,14 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
    -  <i>Extra memory space for a pointer is required.</i>
    
 ## Initialization of linked list
-     struct node
+```diff
+  +  struct node
      {
        int data;
        struct node *next;
      };
+```
+
 ## Some brief about linked list
    - <i>Linked list is made of nodes connected to each other<i>
    - <i>And <b>Nodes</b> consists of two blocks namely</i>
@@ -84,7 +87,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
 
    ## Extended Euclid Algo
  ```diff 
- +     Extended Euclidean algorithm also finds integer coefficients x and y 
+ + Extended Euclidean algorithm also finds integer coefficients x and y 
  ``` 
  
    ## Practiced some questions based on the algorithm
@@ -95,8 +98,10 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
 
 ## Started learning some algorithm
   ## Sieve of Eratosthenes
-     - The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million 
-     
+```diff
++ The sieve of Eratosthenes is one of the most efficient ways to<br> find all primes smaller than n when n is smaller than 10 million 
+```
+
 # Day 6📌
 
 ## Solved some problems on GFG✅
