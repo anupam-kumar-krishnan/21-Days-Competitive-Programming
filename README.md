@@ -172,3 +172,8 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
   - <i>Count number of Hops</i>
   - <i>Binary Array Sorting</i>
   
+# Day 16📌 
+
+## Solved problems on GFG✅
+  - <i>CamelCase Pattern Matching</i>
+  - <i>Drive the car</i>
