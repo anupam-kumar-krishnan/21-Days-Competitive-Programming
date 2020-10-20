@@ -1,7 +1,7 @@
-# 21-DAYS-PROGRAMMING-CHALLENGE-ACES
+# 🔆21-DAYS-PROGRAMMING-CHALLENGE-ACES🔆
 _<b>Competitive Programming and learning DS and Algorithm<b>_
 
-# Day 1🚀
+# Day 1📌
 
 ## Linked List
 ```
@@ -42,7 +42,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
   - Linked List Length Even or Odd
   - Reverse a Linked List
 
-# Day 2🚀
+# Day 2📌
 
   ## Learned the basics of linked list
    - learned the opertions performed on linked list <b>insertion</b>/<b>deletion</b>/<b>updation</b>
@@ -51,7 +51,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
    - Delete alternate node
    - Check if circular linked list
 
-# Day 3🚀
+# Day 3📌
 
   ## Linked list start from creating the linked list to operations performed on linked list(Singly Linked List)
    - Creating Linked List
@@ -73,7 +73,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
    - Count nodes
    - Remove duplicates
    
-# Day 4🚀
+# Day 4📌
 
 ## Started learning some algorithm
   ## Euclid Algo
@@ -87,54 +87,54 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
   - Will practice some more questions in order to grasp the concept totally
   
   
-# Day 5🚀
+# Day 5📌
 
 ## Started learning some algorithm
   ## Sieve of Eratosthenes
      - The sieve of Eratosthenes is one of the most efficient ways to find all primes smaller than n when n is smaller than 10 million 
      
-# Day 6🚀
+# Day 6📌
 
 ## Solved some problems on GFG
   - Multiply array elements
   - Sum of array
 
-# Day 7🚀
+# Day 7📌
 
 ## Solved some problems on GFG
   - Balanced array
   - Count the zeros
   
-# Day 8🚀
+# Day 8📌
 
 ## Solved some problems on GFG
   - Minimum number to form the sum even
   - Number of occuerences
   
-# Day 9🚀
+# Day 9📌
 
 ## Solved some problems on GFG 
   - Check set Bits
   - How many X's
   - Sorted matrix
   
-# Day 10🚀
+# Day 10📌
 
 ## Solved some problems on GFG
  - Equilibrium index of an array
  - Rotate by 90 Degree
  
-# Day 11🚀
+# Day 11📌
 
 ## Solved problem on GFG
  - Swapping Pair make sum equal
  
-# Day 12🚀
+# Day 12📌
 
 ## Solved problem on GFG
  - Maximum and Minimum Of Array Elements
  
-# Day 13🚀
+# Day 13📌
 
 ## Solved problems on GFG
  - Anagram of String
@@ -142,14 +142,14 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
  - Children Sum Parent
  - Sum of all substrings of a number
  
- # Day 14🚀
+ # Day 14📌
 
 ## Solved problems on GFG
   - Count the zeros
   - Factorials of large numbers
   - Star Elements
   
-# Day 15🚀 
+# Day 15📌 
 
 ## Solved problems on GFG
   - Remove Character
