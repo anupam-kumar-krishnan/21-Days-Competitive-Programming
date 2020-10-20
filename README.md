@@ -78,7 +78,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
 ## Started learning some algorithm
   ## Euclid Algo
     ```dif
-    - A basic funda to find the GCD
+    + A basic funda to find the GCD
     ```
   ## Extended Euclid Algo
       -Extended Euclidean algorithm also finds integer coefficients x and y 
