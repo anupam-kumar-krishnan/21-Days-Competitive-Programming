@@ -11,17 +11,17 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
 ```
 
 ## Types of Linked List
-  - Singly Linked List
-  - Doubly Linked List
-  - Circular Linked List
+  - <i>Singly Linked List</i>
+  - <i>Doubly Linked List</i>
+  - <i>Circular Linked List</i>
 
 ## Why we prefer linked list over arrays
- - Dynamic nature in respect of size
- - Doing operations like updation/insertion/deletion are easy in linked list
+ - <i>Dynamic nature in respect of size</i>
+ - <i>Doing operations like updation/insertion/deletion are easy in linked list</i>
  
 ## Drawbacks of linked list
-   -  Random access is not allowed. 
-   -  Extra memory space for a pointer is required.
+   -  <i>Random access is not allowed.</i>
+   -  <i>Extra memory space for a pointer is required.</i>
    
 ## Initialization of linked list
      struct node
@@ -30,48 +30,49 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
        struct node *next;
      };
 ## Some brief about linked list
-   - Linked list is made of nodes connected to each other
-   - And <b>Nodes</b> consists of two blocks namely
+   - <i>Linked list is made of nodes connected to each other<i>
+   - <i>And <b>Nodes</b> consists of two blocks namely</i>
      - <b>Data</b>
      - <b>Pointer</b>(also called 'next' while programming) 
-   - Data refers to the value at the data block of node
-   - Pointer points to the next node in order to link every node with each other
+   - <i>Data refers to the value at the data block of node</i>
+   - <i>Pointer points to the next node in order to link every node with each other</i>
    
 ## Did three basic questions based on linked list on GFG
-  - Count Node Of Linked List
-  - Linked List Length Even or Odd
-  - Reverse a Linked List
+  - <i>Count Node Of Linked List</i>
+  - <i>Linked List Length Even or Odd</i>
+  - <i>Reverse a Linked List</i>
 
 # Day 2📌
 
   ## Learned the basics of linked list
    - learned the opertions performed on linked list <b>insertion</b>/<b>deletion</b>/<b>updation</b>
+  
   ## Did three questions on GFG
-   - Print linked list elements
-   - Delete alternate node
-   - Check if circular linked list
+   - <i>Print linked list elements</i>
+   - <i>Delete alternate node</i>
+   - <i>Check if circular linked list</i>
 
 # Day 3📌
 
   ## Linked list start from creating the linked list to operations performed on linked list(Singly Linked List)
-   - Creating Linked List
-   - Displaying Linked List
+   - <i>Creating Linked List</i>
+   - <i>Displaying Linked List</i>
    
    ## Learned the operations performed in linked list
    
    ### Insertion
-   - Insertion at first
-   - Insertion at last
-   - Insertion in between
+   - <i>Insertion at first</i>
+   - <i>Insertion at last</i>
+   - <i>Insertion in between</i>
      
    ### Deletion
-   - Deletion at first
-   - Deletion at last
-   - Deletion in between
+   - <i>Deletion at first</i>
+   - <i>Deletion at last</i>
+   - <i>Deletion in between</i>
    
    ### Others
-   - Count nodes
-   - Remove duplicates
+   - <i>Count nodes</i>
+   - <i>Remove duplicates</i>
    
 # Day 4📌
 
@@ -84,7 +85,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
       -Extended Euclidean algorithm also finds integer coefficients x and y 
   
 ## Practiced some questions based on the algorithm
-  - Will practice some more questions in order to grasp the concept totally
+  - <i>Will practice some more questions in order to grasp the concept totally</i>
   
   
 # Day 5📌
@@ -95,70 +96,70 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
      
 # Day 6📌
 
-## Solved some problems on GFG:white_check_mark
-  - Multiply array elements
-  - Sum of array
+## Solved some problems on GFG✅
+  - <i>Multiply array elements</i>
+  - <i>Sum of array</i>
 
 # Day 7📌
 
 ## Solved some problems on GFG:white_check_mark
-  - Balanced array
-  - Count the zeros
+  - <i>Balanced array</i>
+  - <i>Count the zeros</i>
   
 # Day 8📌
 
-## Solved some problems on GFG:white_check_mark
-  - Minimum number to form the sum even
-  - Number of occuerences
+## Solved some problems on GFG✅
+  - <i>Minimum number to form the sum even</i>
+  - <i>Number of occuerences</i>
   
 # Day 9📌
 
-## Solved some problems on GFG :white_check_mark
-  - Check set Bits
-  - How many X's
-  - Sorted matrix
+## Solved some problems on GFG✅
+  - <i>Check set Bits</i>
+  - <i>How many X's</i>
+  - <i>Sorted matrix</i>
   
 # Day 10📌
 
-## Solved some problems on GFG:white_check_mark
- - Equilibrium index of an array
- - Rotate by 90 Degree
+## Solved some problems on GFG✅
+ - <i>Equilibrium index of an array</i>
+ - <i>Rotate by 90 Degree</i>
  
 # Day 11📌
 
-## Solved problem on GFG:white_check_mark
- - Swapping Pair make sum equal
+## Solved problem on GFG✅
+ - <i>Swapping Pair make sum equal</i>
  
 # Day 12📌
 
-## Solved problem on GFG:white_check_mark
- - Maximum and Minimum Of Array Elements
+## Solved problem on GFG✅
+ - <i>Maximum and Minimum Of Array Elements</i>
  
 # Day 13📌
 
-## Solved problems on GFG:white_check_mark
- - Anagram of String
- - Bubble Sort
- - Children Sum Parent
- - Sum of all substrings of a number
+## Solved problems on GFG✅
+ - <i>Anagram of String</i>
+ - <i>Bubble Sort</i>
+ - <i>Children Sum Parent</i>
+ - <i>Sum of all substrings of a number</i>
  
  # Day 14📌
 
-## Solved problems on GFG:white_check_mark
-  - Count the zeros
-  - Factorials of large numbers
-  - Star Elements
+## Solved problems on GFG✅
+  - <i>Count the zeros</i>
+  - <i>Factorials of large numbers</i>
+  - <i>Star Elements</i>
   
 # Day 15📌 
 
-## Solved problems on GFG:white_check_mark
-  - Remove Character
-  - Repetitive Addition of digits
-  - Student Record
-  - URLify a given string
-  - Reach a given score
-  - Finding position
-  - Evaluate postfix expression
-  - Decode the pattern
-  - Count number of Hops
-  - Binary Array Sorting
+## Solved problems on GFG✅
+  - <i>Remove Character</i>
+  - <i>Repetitive Addition of digits</i>
+  - <i>Student Record</i>
+  - <i>URLify a given string</i>
+  - <i>Reach a given score</i>
+  - <i>Finding position</i>
+  - <i>Evaluate postfix expression</i>
+  - <i>Decode the pattern</i>
+  - <i>Count number of Hops</i>
+  - <i>Binary Array Sorting</i>
