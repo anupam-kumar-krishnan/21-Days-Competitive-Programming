@@ -102,7 +102,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
 
 # Day 7📌
 
-## Solved some problems on GFG:white_check_mark
+## Solved some problems on GFG✅
   - <i>Balanced array</i>
   - <i>Count the zeros</i>
   
