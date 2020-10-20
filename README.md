@@ -1,12 +1,14 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-Learn DS and Algo
+_<b>Competitive Programming and learning DS and Algorithm<b>_
 
 # Day 1🚀
 
 ## Linked List
+```
 - A linked list is a linear data structure
 - In linked list, elements are not stored in continous manner
-- The elements in a linked list are linked using pointers 
+- The elements in a linked list are linked using pointers
+```
 
 ## Types of Linked List
   - Singly Linked List
