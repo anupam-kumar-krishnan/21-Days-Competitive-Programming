@@ -1,5 +1,5 @@
 # 🔆21-DAYS-PROGRAMMING-CHALLENGE-ACES🔆
-_<b>Competitive Programming and learning DS and Algorithm<b>_
+## _<b>Competitive Programming and learning DS and Algorithm<b>_
 
 # Day 1📌
 
