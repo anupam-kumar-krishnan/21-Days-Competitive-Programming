@@ -115,7 +115,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
   - <i>Count the zeros</i>
 
 ## "Change📗 is the end result of all true learning" 🚶‍♂️🏃‍♂️ ― Leo Buscaglia
-## 7 day streak💚💚💚💚
+##  7 days streak💚💚💚💚
 
 # Day 8📌
 
@@ -162,7 +162,7 @@ _<b>Competitive Programming and learning DS and Algorithm<b>_
   - <i>Star Elements</i>
   
 ## “Education📗📙📘📕 is not the filling of a pail, but the lighting⚡ of a fire🔥🔥.” – W.B. Yeats
-## 14 day streak💙💙💙💙 
+##  14 days streak💙💙💙💙 
  
 # Day 15📌 
 
