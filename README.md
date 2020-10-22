@@ -183,3 +183,18 @@
 ## Solved problems on GFG✅
   - <i>CamelCase Pattern Matching</i>
   - <i>Drive the car</i>
+  
+# Day 17📌 
+
+## Solved problem on GFG✅  
+ - <i>Knight Walk</i>
+ 
+# Day 17📌 
+
+## Solved problem on GFG✅ 
+  - <i>Fill array with 1's</i>
+  - <i>Reorganize the array</i>
+  - <i>You and your books</i>
+  
+
+
