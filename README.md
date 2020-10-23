@@ -189,7 +189,7 @@
 ## Solved problem on GFG✅  
  - <i>Knight Walk</i>
  
-# Day 17📌 
+# Day 18📌 
 
 ## Solved problem on GFG✅ 
   - <i>Fill array with 1's</i>
