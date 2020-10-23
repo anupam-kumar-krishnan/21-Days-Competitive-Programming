@@ -196,5 +196,11 @@
   - <i>Reorganize the array</i>
   - <i>You and your books</i>
   
+# Day 19📌 
+
+## Solved problem on GFG✅ 
+  - <i>Check if linked list is palindrome</i>
+  - <i>Find the highest number</i>
+  - <i>Good or Bad String</i>
 
 
