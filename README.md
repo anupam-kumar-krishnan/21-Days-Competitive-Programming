@@ -206,14 +206,15 @@
  # Day 20📌
  
  ## Solved problems on GFG✅
-   - Chocolate Station
-   - Find the length of loop
-   - Find the maximum number of handshakes
-   - Two mirror trees
+   - <i>Chocolate Station</i>
+   - <i>Find the length of loop</i>
+   - <i>Find the maximum number of handshakes</i>
+   - <i>Two mirror trees</i>
    
 # Day 21📌
 
 ## Solved problems of GFG✅
-  - Determine if two trees are identical 
-
+  - <i>Determine if two trees are identical</i> 
+  - <i>Extract Maximum</i>
+  - <i>Roman Number To Integer</i>
 
