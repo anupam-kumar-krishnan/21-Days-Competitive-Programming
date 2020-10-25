@@ -202,5 +202,18 @@
   - <i>Check if linked list is palindrome</i>
   - <i>Find the highest number</i>
   - <i>Good or Bad String</i>
+  
+ # Day 20📌
+ 
+ ## Solved problems on GFG✅
+   - Chocolate Station
+   - Find the length of loop
+   - Find the maximum number of handshakes
+   - Two mirror trees
+   
+# Day 21📌
+
+## Solved problems of GFG✅
+  - Determine if two trees are identical 
 
 
