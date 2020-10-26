@@ -1,5 +1,5 @@
 # 🔆21-DAYS-PROGRAMMING-CHALLENGE-ACES🔆
-## _<b>Competitive Programming and learning DS and Algorithm<b>_
+##  _<b>🔥🔥Competitive Programming and learning DS and Algorithm🔥🔥<b>_
 
 # Day 1📌
 
@@ -114,7 +114,7 @@
   - <i>Balanced array</i>
   - <i>Count the zeros</i>
 
-## "Change📗 is the end result of all true learning" 🚶‍♂️🏃‍♂️ ― Leo Buscaglia
+## "Change📗 is the end result of all true learning" 🚶‍♂️🏃‍♂️ ― Leo Buscaglia📍
 ##  7 days streak💚💚💚💚
 
 # Day 8📌
@@ -161,7 +161,7 @@
   - <i>Factorials of large numbers</i>
   - <i>Star Elements</i>
   
-## “Education📗📙📘📕 is not the filling of a pail, but the lighting⚡ of a fire🔥🔥.” – W.B. Yeats
+## “Education📗📙📘📕 is not the filling of a pail, but the lighting⚡ of a fire🔥🔥.” – W.B. Yeats📍
 ##  14 days streak💙💙💙💙 
  
 # Day 15📌 
@@ -225,4 +225,4 @@
 
 ## Solved some problems of GFG✅
   - <i>K - Palindrome</i>
-  - <i></i>
+  - <i>Element with left side smaller and right side greater</i>
