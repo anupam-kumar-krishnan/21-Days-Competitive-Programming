@@ -105,14 +105,14 @@
 # Day 6📌
 
 ## Solved some problems on GFG✅
-  📍 <i>Multiply array elements</i>
-  📍 <i>Sum of array</i>
+  - <i>Multiply array elements</i>
+  - <i>Sum of array</i>
 
 # Day 7📌
 
 ## Solved some problems on GFG✅
-  📍 <i>Balanced array</i>
-  📍 <i>Count the zeros</i>
+  - <i>Balanced array</i>
+  - <i>Count the zeros</i>
 
 ## "Change📗 is the end result of all true learning" 🚶‍♂️🏃‍♂️ ― Leo Buscaglia📍
 ##  7 days streak💚💚💚💚
@@ -120,46 +120,46 @@
 # Day 8📌
 
 ## Solved some problems on GFG✅
-  📍 <i>Minimum number to form the sum even</i>
-  📍 <i>Number of occuerences</i>
+  - <i>Minimum number to form the sum even</i>
+  - <i>Number of occuerences</i>
   
 # Day 9📌
 
 ## Solved some problems on GFG✅
-  📍 <i>Check set Bits</i>
-  📍 <i>How many X's</i>
-  📍 <i>Sorted matrix</i>
+  - <i>Check set Bits</i>
+  - <i>How many X's</i>
+  - <i>Sorted matrix</i>
   
 # Day 10📌
 
 ## Solved some problems on GFG✅
- 📍 <i>Equilibrium index of an array</i>
- 📍 <i>Rotate by 90 Degree</i>
+ - <i>Equilibrium index of an array</i>
+ - <i>Rotate by 90 Degree</i>
  
 # Day 11📌
 
 ## Solved problem on GFG✅
- 📍 <i>Swapping Pair make sum equal</i>
+ - <i>Swapping Pair make sum equal</i>
  
 # Day 12📌
 
 ## Solved problem on GFG✅
- 📍 <i>Maximum and Minimum Of Array Elements</i>
+ - <i>Maximum and Minimum Of Array Elements</i>
  
 # Day 13📌
 
 ## Solved problems on GFG✅
- 📍 <i>Anagram of String</i>
- 📍 <i>Bubble Sort</i>
- 📍 <i>Children Sum Parent</i>
- 📍 <i>Sum of all substrings of a number</i>
+ - <i>Anagram of String</i>
+ - <i>Bubble Sort</i>
+ - <i>Children Sum Parent</i>
+ - <i>Sum of all substrings of a number</i>
  
  # Day 14📌
 
 ## Solved problems on GFG✅
-  📍 <i>Count the zeros</i>
-  📍 <i>Factorials of large numbers</i>
-  📍 <i>Star Elements</i>
+  - <i>Count the zeros</i>
+  - <i>Factorials of large numbers</i>
+  - <i>Star Elements</i>
   
 ## “Education📗📙📘📕 is not the filling of a pail, but the lighting⚡ of a fire🔥🔥.” – W.B. Yeats📍
 ##  14 days streak💙💙💙💙 
@@ -167,16 +167,16 @@
 # Day 15📌 
 
 ## Solved problems on GFG✅
-  📍 <i>Remove Character</i>
-  📍 <i>Repetitive Addition of digits</i>
-  📍 <i>Student Record</i>
-  📍 <i>URLify a given string</i>
-  📍 <i>Reach a given score</i>
-  📍 <i>Finding position</i>
-  📍 <i>Evaluate postfix expression</i>
-  📍 <i>Decode the pattern</i>
-  📍 <i>Count number of Hops</i>
-  📍 <i>Binary Array Sorting</i>
+  - <i>Remove Character</i>
+  - <i>Repetitive Addition of digits</i>
+  - <i>Student Record</i>
+  - <i>URLify a given string</i>
+  - <i>Reach a given score</i>
+  - <i>Finding position</i>
+  - <i>Evaluate postfix expression</i>
+  - <i>Decode the pattern</i>
+  - <i>Count number of Hops</i>
+  - <i>Binary Array Sorting</i>
   
 # Day 16📌 
 
@@ -187,42 +187,42 @@
 # Day 17📌 
 
 ## Solved problem on GFG✅  
- 📍 <i>Knight Walk</i>
+ - <i>Knight Walk</i>
  
 # Day 18📌 
 
 ## Solved problem on GFG✅ 
-  📍 <i>Fill array with 1's</i>
-  📍 <i>Reorganize the array</i>
-  📍 <i>You and your books</i>
+  - <i>Fill array with 1's</i>
+  - <i>Reorganize the array</i>
+  - <i>You and your books</i>
   
 # Day 19📌 
 
 ## Solved problem on GFG✅ 
-  📍 <i>Check if linked list is palindrome</i>
-  📍 <i>Find the highest number</i>
-  📍 <i>Good or Bad String</i>
+  - <i>Check if linked list is palindrome</i>
+  - <i>Find the highest number</i>
+  - <i>Good or Bad String</i>
   
  # Day 20📌
  
  ## Solved problems on GFG✅
-   📍 <i>Chocolate Station</i>
-   📍 <i>Find the length of loop</i>
-   📍 <i>Find the maximum number of handshakes</i>
-   📍 <i>Two mirror trees</i>
+   - <i>Chocolate Station</i>
+   - <i>Find the length of loop</i>
+   - <i>Find the maximum number of handshakes</i>
+   - <i>Two mirror trees</i>
    
 # Day 21📌
 
 ## Solved problems of GFG✅
-  📍 <i>Determine if two trees are identical</i> 
-  📍 <i>Extract Maximum</i>
-  📍 <i>Roman Number To Integer</i>
-  📍 <i>Meta String</i>
+  - <i>Determine if two trees are identical</i> 
+  - <i>Extract Maximum</i>
+  - <i>Roman Number To Integer</i>
+  - <i>Meta String</i>
 ## “The key to success🚩🏃‍♂️ is consistency👨‍💻” - Zak Frazer📍 
 ## 21 days streak💛💛💛💛 and it continues.......🏃‍♂️
 
 # Day 22📌
 
 ## Solved some problems of GFG✅
-  📍 <i>K - Palindrome</i>
-  📍 <i>Element with left side smaller and right side greater</i>
+  - <i>K - Palindrome</i>
+  - <i>Element with left side smaller and right side greater</i>
