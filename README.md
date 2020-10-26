@@ -105,8 +105,8 @@
 # Day 6📌
 
 ## Solved some problems on GFG✅
-  - <i>Multiply array elements</i>
-  - <i>Sum of array</i>
+  📍 <i>Multiply array elements</i>
+  📍 <i>Sum of array</i>
 
 # Day 7📌
 
