@@ -1,4 +1,4 @@
-# 📍📍21-DAYS-PROGRAMMING-CHALLENGE-ACES📍📍
+# 📍📍21-Days Competitive Programming📍📍
 ##  _<b>🔥🔥Competitive Programming and learning DS and Algorithm🔥🔥<b>_
 
 # Day 1📌
